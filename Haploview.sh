@@ -1,0 +1,1 @@
+java -jar Haploview.jar -pedfile R2.ped -info R2.map -n -memory 20000 -minMAF 0.10 -maxDistance 2000 -dprime -ldcolorscheme RSQ -compressedpng

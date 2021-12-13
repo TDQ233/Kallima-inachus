@@ -1,0 +1,2 @@
+vcftools --gzvcf Kin_I_79.vcf.gz --weir-fst-pop pop_Y --weir-fst-pop pop_I --fst-window-size 50000 --out Y_I_50k
+vcftools --vcf HiC_scaffold_26_I.vcf --weir-fst-pop pop_MY --weir-fst-pop pop_I --fst-window-size 10000 --out MY_I_10k

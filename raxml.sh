@@ -1,0 +1,1 @@
+raxmlHPC -f a -m GTRGAMMA -p 12345 -x 12345 -# 100 -T 20 -s plain.phy -n plain
