@@ -1,0 +1,3 @@
+python3 /data/software/fithic-master/fithic/utils/createFitHiCContacts-hic.py --HiCFile /data/Hi-C/juicer-main/work/Kin_P/aligned/inter.hic --CHR1 chr26 --CHR2 chr26 --resolution 5000 --Norm KR --outFile Kin_P_chr26_5k_KR.txt
+
+fithic -r 5000 -l "Kin_P_chr26_5k_KR" -f Kin_P_chr26_5k_KR_fragments.txt.gz -i Kin_P_chr26_5k_KR_normalized.txt.gz -L 10000 -U 500000 -b 100 -p 1 -o Kin_P_chr26_5k_KR -x intraOnly
