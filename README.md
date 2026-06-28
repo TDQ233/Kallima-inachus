@@ -1,0 +1,1 @@
+This repository contains scripts for integrating multi-omics and comparative evolutionary analyses to dissect the regulatory mechanisms and evolutionary history underlying leaf-like wing patterns in Kallima inachus.
