@@ -1,0 +1,1 @@
+Trinity --seqType fq --left Sample1_1.fq.gz,Sample2_1.fq.gz,Sample3_1.fq.gz --right Sample1_2.fq.gz,Sample2_2.fq.gz,Sample3_2.fq.gz --output Sample123_trinity --CPU 20 --max_memory 200G --no_salmon --no_version_check
